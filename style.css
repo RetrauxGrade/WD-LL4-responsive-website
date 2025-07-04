@@ -1,0 +1,14 @@
+body{
+    height: 100vh
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+h1 {
+    color: black
+}
